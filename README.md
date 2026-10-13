@@ -1,1 +1,17 @@
-# This Is My Ogfn Archive With Loads Of Stuff Like Backend GameServers Matchmakers etc Dm Me On discord User sharkzy1.1 if you Have Stuff To Post On here
+OGFN Archive
+
+Welcome to my OGFN Archive! 
+
+This repository contains a collection of OGFN-related resources, including:
+
+ Backend files and services
+ Game servers
+ Matchmakers
+ Other OGFN-related tools, files, and resources
+ Want to Contribute?
+
+Have something to share or add to the archive? Feel free to DM me on Discord!
+
+Discord: shxrk1xx
+
+Contributions and useful resources are always welcome!
